@@ -1,1 +1,2 @@
-# lab-2.5.1-sign-up-form
+Vacation Contest
+by Tyler Goldsmith
